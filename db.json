@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "6ee5",
+      "firstName": "Arsh",
+      "lastName": "Singh",
+      "age": "13",
+      "gender": "male",
+      "mobile": "1234567811",
+      "email": "arsh1@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e75d",
+      "firstName": "akash",
+      "lastName": "verma",
+      "age": "23",
+      "gender": "Male",
+      "mobile": "0987654321",
+      "email": "akash1@gmail.com",
+      "password": "1234"
+    }
+
+  ]
+}
