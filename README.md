@@ -84,4 +84,12 @@ the app.js is the enrty point for the project ,int this we have use router which
 this project is simple project which will take user information from registration , and after login this information will be show in profile section os user . user can also update or edit its information in profile section
 
 
+### how to start the project
+
+first start the database by running the command "  json-server --watch db.json --port 5000  "
+
+then after successfully runnning the above command run the project by npm start in new terminal without closing previous one
+
+
+
 
