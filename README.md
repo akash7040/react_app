@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Local database
+used db.json for local database which will store the user 
+
+### Used AuthService
+to authenticate if user is already present in database or not
+
+### Enetry point
+
+the app.js is the enrty point for the project ,int this we have use router which will route our web page on different page without loading the page thi gives the better user experience
+
+### functionalities about this project
+
+this project is simple project which will take user information from registration , and after login this information will be show in profile section os user . user can also update or edit its information in profile section
+
+
+
